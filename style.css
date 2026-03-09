@@ -2,15 +2,6 @@
    Use the glasses' classes to apply filters to the glass images
 */
 /* Put your styles ABOVE this line */
-div.platter{
-    position:relative;
-    background-size:100% 100%;
-    height:200px;
-    width:200px;
-    background-color: black;
-    animation: serve 3s forwards;
-   
-}
 .header{
    color:white;
 }
@@ -31,25 +22,4 @@ body{
     background-attachment:fixed;
     background-size: 100% 100%;
     text-align:center;
-}
-
-ul{
-    list-style-type:none; // remove bullets
-}
-
-li{
-    display:inline-flex; // force list items to be in one line
-}
-.platter:hover .label{
-    visibility:visible;
-}
-@keyframes serve{
-    from{
-        height:200px;
-        width:200px;
-    }
-    to{
-        height:400px;
-        width:400px;
-    }
 }
