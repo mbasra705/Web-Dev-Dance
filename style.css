@@ -5,16 +5,9 @@
 .header{
    color:white;
 }
-
-img{
-    height:50px;
-    width:50px;
-    position:inline;
-}
-
 body{
-    background-color: black;
-    background-attachment:fixed;
-    background-size: 100% 100%;
-    text-align:center;
+   background-color: black;
+}
+.p{
+   color:LightBlue;
 }
