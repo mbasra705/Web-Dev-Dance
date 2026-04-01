@@ -45,3 +45,9 @@ figcaption{
     font-size:8px;
     color:LightBlue;
 }
+table{
+    color:white;
+}
+th{
+    background-color:LightBlue;
+}
