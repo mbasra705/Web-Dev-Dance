@@ -1,10 +1,47 @@
-
-.header{
+header{
    color:white;
+   text-align:center;
 }
 body{
    background-color: black;
+   text-align: Center;
+    font-family:Arial;
 }
-.p{
+p{
    color:LightBlue;
+   text-align: Center;
+}
+h2{
+    color:LightBlue;
+}
+.list{
+    color:LightBlue;
+    font-size:20px;
+}
+.categories{
+    font-style:italic;
+    color:white;
+    font-family: Times;
+    font-weight: 800;
+}
+.smallerlists{
+    font-size: 13px;
+}
+h1{
+    color:white;
+}
+footer{
+    color:white;
+    text-align:left;
+    font-size:10px;
+}
+figcaption{
+    font-size: 10px;
+}
+.links{
+    color:white;
+}
+.sources{
+    font-size:8px;
+    color:LightBlue;
 }
